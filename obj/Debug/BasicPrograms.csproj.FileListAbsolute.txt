@@ -1,0 +1,6 @@
+C:\Personal\big\Tutorials\C#\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Personal\big\Tutorials\C#\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Personal\big\Tutorials\C#\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Personal\big\Tutorials\C#\BasicPrograms\obj\Debug\BasicPrograms.csprojResolveAssemblyReference.cache
+C:\Personal\big\Tutorials\C#\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Personal\big\Tutorials\C#\BasicPrograms\obj\Debug\BasicPrograms.pdb
